@@ -1,4 +1,4 @@
 # ProjectWikiBurn
 Justin,Joanna,Yusuf
-amongus
+amongeus
 abc
